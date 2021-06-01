@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98854433136",
+    "project_id": "pushnotificationdemo-2ccfd",
+    "storage_bucket": "pushnotificationdemo-2ccfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98854433136:android:b3f73cb3a57a4cdd56dfb5",
+        "android_client_info": {
+          "package_name": "com.mind.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98854433136-vn3qj9ptakun7np18hhnbca0hh6s260j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9z6TEriXwN7tP5XBGDnDF6Ia2cxp7P2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98854433136-vn3qj9ptakun7np18hhnbca0hh6s260j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
